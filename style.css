@@ -1,0 +1,145 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family: Arial;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#wrapper1{
+    width:7%;
+    padding-left: 20px;
+	margin:auto;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    float: left;
+    position: fixed;
+    background-color: rgba(57, 9, 77, 0.342);
+}
+    #sidebar a{
+    
+    }
+#wrapper2{
+    width:93%;
+	margin:auto;
+    padding-top: 10px;
+    padding-right: 50px;
+    float: right;
+}
+#header{
+    padding-left: 200px;
+    size: 50px;
+}
+    h1{
+        padding-left: 100px;
+    }
+#main1{
+    width:100%;
+    min-height: 100px;
+    margin-bottom:10px;
+    background:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    #logo{
+        float:left;
+        padding-left:10%;
+    }
+    #nav{
+        width: 90%;
+        padding-left:5%;
+        float:right;
+        line-height: 50px;
+    }
+    #nav2 a{
+        font-size: 22px;
+        color: rgb(138, 101, 224);
+        padding-right: 20px;
+        text-decoration: none;
+        padding-left: 40px;
+    }
+h4{
+    text-align: center;
+    color: rgb(138, 101, 224);
+}
+
+  .insideText {
+    position: relative;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    color:  rgb(83, 49, 163);
+    transform: translate(-50%, -50%);
+  }
+.descp{
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: 50px;
+    text-align: center;
+    color: rgba(112, 76, 196, 0.692);
+
+}
+#colPhoto1{
+    width: 49%;
+    float: left;
+}
+
+#colImage{
+    margin-left:20px;
+}
+.p2{
+    font-size:20px;
+    text-align: center;
+    color: gray;
+    border: 1px solid rgb(52, 91, 128);
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left:30px;
+
+}
+p{
+    font-size:20px;
+    text-align: center;
+    color: gray;
+    border: 1px solid rgb(52, 91, 128);
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#Box1{
+    float: right;
+}
+#Box2{
+    float: right;
+    padding-right: 13%
+}
+#Box3{
+    float: left;
+}
+#wrapTable{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.footerTab{
+    align-items: center;
+}
+
+#footer{
+    align-content: center;
+}
+
+#email{
+    margin-top: 20px;
+    font-size:10px;
+    float: right;
+    font-size:15px;
+    padding-right: 30%;
+    line-height: 50px;
+    color:rgb(57, 9, 77)
+}
+#logo2{
+    margin-top: 20px;
+    padding-left:45%;
+
+}
